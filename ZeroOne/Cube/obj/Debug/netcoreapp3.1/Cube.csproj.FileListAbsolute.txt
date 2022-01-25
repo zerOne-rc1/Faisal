@@ -1,0 +1,13 @@
+C:\Users\Faisal\source\repos\zerOne-rc1\Faisal\ZeroOne\Cube\bin\Debug\netcoreapp3.1\Cube.exe
+C:\Users\Faisal\source\repos\zerOne-rc1\Faisal\ZeroOne\Cube\bin\Debug\netcoreapp3.1\Cube.deps.json
+C:\Users\Faisal\source\repos\zerOne-rc1\Faisal\ZeroOne\Cube\bin\Debug\netcoreapp3.1\Cube.runtimeconfig.json
+C:\Users\Faisal\source\repos\zerOne-rc1\Faisal\ZeroOne\Cube\bin\Debug\netcoreapp3.1\Cube.runtimeconfig.dev.json
+C:\Users\Faisal\source\repos\zerOne-rc1\Faisal\ZeroOne\Cube\bin\Debug\netcoreapp3.1\Cube.dll
+C:\Users\Faisal\source\repos\zerOne-rc1\Faisal\ZeroOne\Cube\bin\Debug\netcoreapp3.1\Cube.pdb
+C:\Users\Faisal\source\repos\zerOne-rc1\Faisal\ZeroOne\Cube\obj\Debug\netcoreapp3.1\Cube.csprojAssemblyReference.cache
+C:\Users\Faisal\source\repos\zerOne-rc1\Faisal\ZeroOne\Cube\obj\Debug\netcoreapp3.1\Cube.AssemblyInfoInputs.cache
+C:\Users\Faisal\source\repos\zerOne-rc1\Faisal\ZeroOne\Cube\obj\Debug\netcoreapp3.1\Cube.AssemblyInfo.cs
+C:\Users\Faisal\source\repos\zerOne-rc1\Faisal\ZeroOne\Cube\obj\Debug\netcoreapp3.1\Cube.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\source\repos\zerOne-rc1\Faisal\ZeroOne\Cube\obj\Debug\netcoreapp3.1\Cube.dll
+C:\Users\Faisal\source\repos\zerOne-rc1\Faisal\ZeroOne\Cube\obj\Debug\netcoreapp3.1\Cube.pdb
+C:\Users\Faisal\source\repos\zerOne-rc1\Faisal\ZeroOne\Cube\obj\Debug\netcoreapp3.1\Cube.genruntimeconfig.cache
